@@ -1,0 +1,105 @@
+.F-blur img{
+	height:500px;
+	filter:blur(4px);
+}
+
+.F-blur:hover img{
+	height:500px;
+	filter:blur(0px);
+}
+
+.hue-rotate img{
+	height:500px;
+	filter: hue-rotate(0deg);
+}
+
+.hue-rotate:hover img{
+	height:500px;
+	filter: hue-rotate(266deg);
+}
+
+
+
+.brightness img{
+	height:500px;
+	filter:brightness(1);
+}
+
+.brightness:hover img{
+	height:500px;
+	filter:brightness(0.2);
+}
+
+
+
+.invert img{
+	height:500px;
+	filter:invert(0);
+}
+
+
+.invert:hover img{
+	height:500px;
+	filter:invert(1);
+}
+
+.greyscale img{
+	    height:500px;
+	    filter: grayscale(0);
+}
+
+.greyscale:hover img{
+	    height:500px;
+	    filter: grayscale(1);
+}
+
+
+.saturate img{
+	height: 500px;
+    filter: saturate(1);
+}
+
+
+.saturate:hover img{
+	height: 500px;
+    filter: saturate(20);
+}
+
+
+.sepia img{
+	height: 500px;
+    filter: sepia(0);
+}
+
+.sepia:hover img{
+	height: 500px;
+    filter: sepia(1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
